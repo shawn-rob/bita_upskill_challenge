@@ -1,4 +1,4 @@
-## Day Ten: Scheduling Tasks ##
+## Day Ten Scheduling Tasks ##
 
 ## Where Bash Scripting and Automation Begins ##
 
@@ -12,4 +12,7 @@ I open crontab to begin scheduling tasks. My first task is to echo hello world e
 
 ***
 ***
+## BITA CHALLENGE #
+***
 
+The BITA tasks differ in the ones on the upskill challenge this time, so we have a part two. Part one uses cron while
