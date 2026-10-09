@@ -8,7 +8,8 @@ My first automation on the server is using the at command to send a greeting to 
 
 ***
 
-I open crontab to begin scheduling tasks. My first task is to echo hello world every minute. It wasn't doing it at first, but then the server restarted and since logging back in it has been sending the hello world every minute. 
+I open crontab to begin scheduling tasks. My first task is to echo hello world every minute. It wasn't doing it at first, but then the server restarted and since logging back in it has been sending the hello world every minute. I did a backup and set to delete older backups of the home.
 
-
+***
+***
 
