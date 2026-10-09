@@ -1,5 +1,5 @@
 # Day Nine #
-## Diving Into Netwrking ##
+## Diving Into Networking ##
 
 I did a little readover on the objectives of this module and did a bit of day 9 on day 8. Insert Prince meme lol. Getting ahead of yourself.
 
