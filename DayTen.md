@@ -15,4 +15,4 @@ I open crontab to begin scheduling tasks. My first task is to echo hello world e
 ## BITA CHALLENGE #
 ***
 
-The BITA tasks differ in the ones on the upskill challenge this time, so we have a part two. Part one uses cron while
+Day 10 is practically done. there is the Last Bita challenge I am going to come back to on saturday as it haas taken up all week of my time for day 10 and I really need to press on. Parking Lot It. 
