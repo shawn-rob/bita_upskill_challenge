@@ -6,6 +6,3 @@ I am currently trying to redo the process and I get a warn: waiting for lock to 
 
 The thing that took me forever to do though was get the ssh key login for Kungfu and so I would get an access denied. It took a bit of googling but I was able to get my new created user to login via ssh. I changed the PW for the user I should do the same for the root. I switched from Kungfu to root with sudo -i successfully and changed the name of the server successfully.
 
-## UPDATE ##
-
-Did not know that there was assessments, so here I am back again. 
