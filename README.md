@@ -9,17 +9,17 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 #### Table of Contents ####
 
 Day One: Get to know your server<br>
-Day Two: Basic Navigation
-Day Three: Power Trip!
-Day Four: Installing Software, Exploring the File Structure
-Day Five: More or Less
-Day Six: Editing With "vim"
-Day Seven: The Server and Its Services
-Day Eight: The Infamous "grep" and Other Text Processors
-Day Nine: Diving Into Networking
-Day Ten: Scheduling Tasks
-Day Eleven: Finding Things
-Day Twelve: Transferring Files
-Day Thirteen: Users and Groups
+Day Two: Basic Navigation<br>
+Day Three: Power Trip!<br>
+Day Four: Installing Software, Exploring the File Structure<br>
+Day Five: More or Less<br>
+Day Six: Editing With "vim"<br>
+Day Seven: The Server and Its Services<br>
+Day Eight: The Infamous "grep" and Other Text Processors<br>
+Day Nine: Diving Into Networking<br>
+Day Ten: Scheduling Tasks<br>
+Day Eleven: Finding Things<br>
+Day Twelve: Transferring Files<br>
+Day Thirteen: Users and Groups<br>
 
 more days coming, I am keeping myself accountable by seeing just how far I am by what I have already completed.
