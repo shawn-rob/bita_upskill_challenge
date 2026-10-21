@@ -8,4 +8,4 @@ Beyond that I started to navigate the file hierarchy. I am familiar with the dir
 
 MacOS and Linux I believe both based on Unix but they don't run on the same system. They are just incredibly similar. Apple is extremely proprietary meanwhile Linus Torvalds delighted us with such an open source operating system. 
 
-<img src="Day2.png" alt="New Server" width="300" height="200">
+<img src="Screenshots/Day2.png" alt="New Server" width="400" height="500">
