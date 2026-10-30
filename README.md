@@ -8,18 +8,18 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 
 #### Table of Contents ####
 
-Day One: Get to know your server<br>
-Day Two: Basic Navigation<br>
-Day Three: Power Trip!<br>
-Day Four: Installing Software, Exploring the File Structure<br>
-Day Five: More or Less<br>
-Day Six: Editing With "vim"<br>
-Day Seven: The Server and Its Services<br>
-Day Eight: The Infamous "grep" and Other Text Processors<br>
-Day Nine: Diving Into Networking<br>
-Day Ten: Scheduling Tasks<br>
-Day Eleven: Finding Things<br>
-Day Twelve: Transferring Files<br>
-Day Thirteen: Users and Groups<br>
+[DayOne:](DayOne.md) Get to know your server [DayOne:](DayOne.md)<br>
+[DayTwo:](DayTwo.md) Basic Navigation<br>
+[DayThree:](DayThree.md) Power Trip!<br>
+[DayFour:](DayFour.md) Installing Software, Exploring the File Structure<br>
+[DayFive:](DayFive.md) More or Less<br>
+[DaySix:](DaySix.md) Editing With "vim"<br>
+[DaySeven:](DaySeven.md) The Server and Its Services<br>
+[DayEight:](DayEight.md) The Infamous "grep" and Other Text Processors<br>
+[DayNine:](DayNine.md) Diving Into Networking<br>
+[DayTen:](DayTen.md) Scheduling Tasks<br>
+[DayEleven:](DayEleven.md) Finding Things<br>
+[DayTwelve:](DayTwelve.md) Transferring Files<br>
+[DayThirteen:](DayThirteen.md) Users and Groups<br>
 
-more days coming, I am keeping myself accountable by seeing just how far I am by what I have already completed.
+More days coming, I am keeping myself accountable by seeing just how far I am by what I have already completed.
