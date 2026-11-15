@@ -21,5 +21,11 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 [DayEleven:](DayEleven.md) Finding Things<br>
 [DayTwelve:](DayTwelve.md) Transferring Files<br>
 [DayThirteen:](DayThirteen.md) Users and Groups<br>
+[DayFourteen:](DayFourteen.md) Who Has Permission?<br>
+[DayFifteen:](DayFifteen.md) What in the Repository?!<br>
+[DaySixteen:](DaySixteen.md) Archiving and Compressing<br>
+[DaySeventeen:](DaySeventeen.md) Let The Source Be With You<br>
+[DayEighteen:](DayEighteen.md) Let The Source Be With You<br>
+
 
 More days coming, I am keeping myself accountable by seeing just how far I am by what I have already completed.
