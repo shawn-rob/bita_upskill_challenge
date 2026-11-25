@@ -26,6 +26,7 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 [DaySixteen:](DaySixteen.md) Archiving and Compressing<br>
 [DaySeventeen:](DaySeventeen.md) Let The Source Be With You<br>
 [DayEighteen:](DayEighteen.md) Let The Source Be With You<br>
+[DayNineteen:](DayNineteen.md) Inodes, Symlinks and Shortcuts<br>
+[DayTwenty:](DayTwenty.md) Read The Script!!<br>
 
 
-More days coming, I am keeping myself accountable by seeing just how far I am by what I have already completed.
