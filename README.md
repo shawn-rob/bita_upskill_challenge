@@ -28,7 +28,7 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 [DayEighteen:](DayEighteen.md) Let The Source Be With You<br>
 [DayNineteen:](DayNineteen.md) Inodes, Symlinks and Shortcuts<br>
 [DayTwenty:](DayTwenty.md) Read The Script!!<br>
+[Capstone Project:](Capstone.md) The Day to Rule Them All!<br>
 
-The 21st day will be the Capstone coming soon :)
 
 
