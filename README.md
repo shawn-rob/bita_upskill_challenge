@@ -8,7 +8,7 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 
 #### Table of Contents ####
 
-[DayOne:](DayOne.md) Get to know your server [DayOne:](DayOne.md)<br>
+[DayOne:](DayOne.md) Get to know your server <br>
 [DayTwo:](DayTwo.md) Basic Navigation<br>
 [DayThree:](DayThree.md) Power Trip!<br>
 [DayFour:](DayFour.md) Installing Software, Exploring the File Structure<br>
@@ -28,5 +28,7 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 [DayEighteen:](DayEighteen.md) Let The Source Be With You<br>
 [DayNineteen:](DayNineteen.md) Inodes, Symlinks and Shortcuts<br>
 [DayTwenty:](DayTwenty.md) Read The Script!!<br>
+
+The 21st day will be the Capstone coming soon :)
 
 
