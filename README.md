@@ -29,4 +29,6 @@ This is a 21 day challenge that typically takes around 30 days to complete. It i
 [DayNineteen:](DayNineteen.md) Inodes, Symlinks and Shortcuts<br>
 [DayTwenty:](DayTwenty.md) Read The Script!!<br>
 
+The 21st day will be the Capstone coming soon :)
+
 
